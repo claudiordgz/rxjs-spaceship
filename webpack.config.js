@@ -10,7 +10,7 @@ module.exports = {
     output: {
         path: __dirname + '/lib',
         filename: 'bundle.js',
-        library: "rxjsMap",
+        library: "rxjsSpaceship",
         libraryTarget: 'umd',
         umdNamedDefine: true
     },
